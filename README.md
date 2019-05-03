@@ -1,2 +1,3 @@
 # Class_Practical
 It's just a class presentation demo
+We are trying to grasp the concept of pushing and pulling either way...
